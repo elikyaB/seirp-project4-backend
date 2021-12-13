@@ -1,0 +1,625 @@
+2021-12-11 01:47:50 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-11 01:47:50 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-11 22:35:55 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-11 22:35:55 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-11 22:37:18 - ERROR - ResponseError in 0 on line 0
+2021-12-11 22:38:06 - ERROR - ContainerError in 0 on line 0
+2021-12-11 22:39:40 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/FoodController.py on line 29
+2021-12-11 22:39:40 - ERROR - "GET /diary HTTP/1.1" 500 1047495
+2021-12-11 22:45:38 - ERROR - QueryException in 0 on line 0
+2021-12-11 22:45:38 - ERROR - "GET /diary HTTP/1.1" 500 979844
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:46:57 - INFO - "GET /diary HTTP/1.1" 200 2
+2021-12-11 22:50:07 - ERROR - ContainerError in 0 on line 0
+2021-12-11 22:50:47 - ERROR - ContainerError in 0 on line 0
+2021-12-11 23:20:23 - INFO - "GET /diary/1001 HTTP/1.1" 200 211
+2021-12-11 23:20:23 - INFO - "GET /diary/ HTTP/1.1" 200 36333568
+2021-12-12 00:13:43 - ERROR - ContainerError in 0 on line 0
+2021-12-12 00:13:43 - ERROR - "GET /diary/ HTTP/1.1" 500 973764
+2021-12-12 00:15:28 - ERROR - ContainerError in 0 on line 0
+2021-12-12 00:15:28 - ERROR - "GET /diary/ HTTP/1.1" 500 973894
+2021-12-12 00:16:52 - ERROR - QueryException in 0 on line 0
+2021-12-12 00:16:52 - ERROR - "GET /diary/ HTTP/1.1" 500 977149
+2021-12-12 00:37:11 - INFO - "GET /diary/ HTTP/1.1" 200 553776
+2021-12-12 00:37:52 - INFO - "GET /diary/ HTTP/1.1" 200 36333568
+2021-12-12 00:40:04 - INFO - "GET /diary/ HTTP/1.1" 200 13205
+2021-12-12 02:56:02 - INFO - "GET /diary HTTP/1.1" 200 2071
+2021-12-12 02:56:52 - INFO - "GET /diary HTTP/1.1" 200 4878910
+2021-12-12 02:58:11 - INFO - "GET /food HTTP/1.1" 200 4878910
+2021-12-12 22:08:18 - WARNING - "GET /user HTTP/1.1" 404 1536
+2021-12-12 22:08:18 - WARNING - "POST / HTTP/1.1" 405 1554
+2021-12-12 22:08:18 - WARNING - "POST /user HTTP/1.1" 404 1536
+2021-12-12 22:12:53 - INFO - "POST /user HTTP/1.1" 200 149
+2021-12-12 22:19:36 - ERROR - QueryException in 0 on line 0
+2021-12-12 22:19:36 - ERROR - "POST /user HTTP/1.1" 500 984370
+2021-12-12 22:19:50 - ERROR - QueryException in 0 on line 0
+2021-12-12 22:19:50 - ERROR - "POST /user HTTP/1.1" 500 984500
+2021-12-12 22:20:35 - ERROR - QueryException in 0 on line 0
+2021-12-12 22:20:35 - ERROR - "POST /user HTTP/1.1" 500 984520
+2021-12-12 22:22:38 - ERROR - QueryException in 0 on line 0
+2021-12-12 22:22:38 - ERROR - "POST /user HTTP/1.1" 500 984520
+2021-12-12 22:41:18 - ERROR - ContainerError in 0 on line 0
+2021-12-12 22:41:18 - ERROR - "GET /user HTTP/1.1" 500 968509
+2021-12-12 22:42:20 - ERROR - ContainerError in 0 on line 0
+2021-12-12 22:42:20 - ERROR - "GET /user HTTP/1.1" 500 968639
+2021-12-12 22:42:55 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:43:16 - ERROR - SyntaxError in 0 on line 0
+2021-12-12 22:43:16 - ERROR - "GET /user HTTP/1.1" 500 1038698
+2021-12-12 22:43:40 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:44:00 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:44:03 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:44:16 - ERROR - ContainerError in 0 on line 0
+2021-12-12 22:44:49 - ERROR - QueryException in 0 on line 0
+2021-12-12 22:44:49 - ERROR - "POST /user HTTP/1.1" 500 984498
+2021-12-12 22:46:14 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:46:14 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:46:44 - INFO - "GET /user HTTP/1.1" 200 210
+2021-12-12 22:47:33 - ERROR - ContainerError in 0 on line 0
+2021-12-12 22:47:35 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:48:56 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:48:56 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:48:56 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:48:56 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:49:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:50:08 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:50:16 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:50:16 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:50:33 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:51:20 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:52:57 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:53:16 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:53:33 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:53:41 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:54:59 - INFO - "GET /user HTTP/1.1" 200 210
+2021-12-12 22:57:37 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:57:50 - ERROR - SyntaxError in 0 on line 0
+2021-12-12 22:57:52 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-12 22:58:53 - ERROR - NameError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 25
+2021-12-12 22:58:55 - ERROR - InvalidHTTPStatusCode in 0 on line 0
+2021-12-12 22:58:55 - ERROR - "GET /user HTTP/1.1" 500 966604
+2021-12-12 22:59:12 - INFO - "GET /user HTTP/1.1" 200 14
+2021-12-12 23:01:13 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:02:08 - INFO - "GET /user HTTP/1.1" 200 0
+2021-12-12 23:03:50 - INFO - "GET /user HTTP/1.1" 200 16
+2021-12-12 23:03:50 - INFO - "GET /user HTTP/1.1" 200 16
+2021-12-12 23:03:50 - INFO - "GET /user HTTP/1.1" 200 16
+2021-12-12 23:03:50 - INFO - "POST /user HTTP/1.1" 200 149
+2021-12-12 23:03:50 - WARNING - "GET /user/1 HTTP/1.1" 404 1536
+2021-12-12 23:03:50 - WARNING - "GET /user/1 HTTP/1.1" 404 1536
+2021-12-12 23:03:50 - INFO - "GET /user/1/1 HTTP/1.1" 200 420
+2021-12-12 23:10:33 - INFO - "POST /user/ HTTP/1.1" 200 149
+2021-12-12 23:11:22 - INFO - "POST /user/ HTTP/1.1" 200 149
+2021-12-12 23:11:22 - INFO - "GET /user/1/1 HTTP/1.1" 200 840
+2021-12-12 23:11:22 - WARNING - "DELETE /user/1 HTTP/1.1" 404 1536
+2021-12-12 23:11:22 - INFO - "DELETE /user/1/1 HTTP/1.1" 200 210
+2021-12-12 23:11:22 - INFO - "DELETE /user/1/1 HTTP/1.1" 200 2
+2021-12-12 23:11:22 - INFO - "DELETE /user/1/1 HTTP/1.1" 200 2
+2021-12-12 23:11:22 - INFO - "GET /user/1/1 HTTP/1.1" 200 630
+2021-12-12 23:17:23 - INFO - "GET /user/1/1 HTTP/1.1" 200 594
+2021-12-12 23:17:23 - INFO - "GET /user/1/1 HTTP/1.1" 200 594
+2021-12-12 23:19:03 - INFO - "GET /user/ HTTP/1.1" 200 2
+2021-12-12 23:19:47 - INFO - "POST /user/ HTTP/1.1" 200 149
+2021-12-12 23:19:47 - WARNING - "PUT /user/5 HTTP/1.1" 404 1536
+2021-12-12 23:22:45 - ERROR - AttributeError in 0 on line 0
+2021-12-12 23:22:45 - ERROR - "PUT /user/5/1 HTTP/1.1" 500 1053619
+2021-12-12 23:26:04 - ERROR - AttributeError in 0 on line 0
+2021-12-12 23:26:04 - ERROR - "PUT /user/5/5 HTTP/1.1" 500 1054036
+2021-12-12 23:26:52 - INFO - "POST /user/ HTTP/1.1" 200 153
+2021-12-12 23:27:11 - INFO - "POST /user/ HTTP/1.1" 200 145
+2021-12-12 23:29:32 - INFO - "GET /user/ HTTP/1.1" 200 984
+2021-12-12 23:32:16 - INFO - "GET /user/ HTTP/1.1" 200 984
+2021-12-12 23:38:26 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:26 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:26 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:38:42 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:39:00 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-12 23:39:00 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-12 23:39:18 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-12 23:40:35 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:40:47 - INFO - "POST /user/ HTTP/1.1" 200 198
+2021-12-12 23:40:47 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-12 23:45:13 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:45:15 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:45:15 - ERROR - "POST /user/ HTTP/1.1" 500 955407
+2021-12-12 23:46:07 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:46:07 - ERROR - "POST /user/ HTTP/1.1" 500 955537
+2021-12-12 23:46:10 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:46:10 - ERROR - "POST /user/ HTTP/1.1" 500 955537
+2021-12-12 23:47:28 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:47:28 - ERROR - "POST /user/ HTTP/1.1" 500 973199
+2021-12-12 23:47:30 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:47:30 - ERROR - "POST /user/ HTTP/1.1" 500 2036558
+2021-12-12 23:47:49 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:47:49 - ERROR - "POST /user/ HTTP/1.1" 500 3208199
+2021-12-12 23:48:13 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:48:13 - ERROR - "POST /user/ HTTP/1.1" 500 973199
+2021-12-12 23:48:23 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:48:25 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:48:25 - ERROR - "POST /user/ HTTP/1.1" 500 973199
+2021-12-12 23:48:37 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:48:37 - ERROR - "POST /user/ HTTP/1.1" 500 973199
+2021-12-12 23:49:57 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:49:57 - ERROR - "POST /user/ HTTP/1.1" 500 973199
+2021-12-12 23:50:00 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:50:00 - ERROR - "POST /user/ HTTP/1.1" 500 2036558
+2021-12-12 23:50:50 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:50:50 - ERROR - "POST /user/ HTTP/1.1" 500 973069
+2021-12-12 23:51:23 - ERROR - SyntaxError in 0 on line 0
+2021-12-12 23:51:23 - ERROR - "POST /user/ HTTP/1.1" 500 1038803
+2021-12-12 23:51:25 - INFO - "POST /user/ HTTP/1.1" 200 984
+2021-12-12 23:51:25 - INFO - "POST /user/ HTTP/1.1" 200 984
+2021-12-12 23:57:01 - ERROR - SyntaxError in 0 on line 0
+2021-12-12 23:57:01 - ERROR - "GET /user/ HTTP/1.1" 500 1038892
+2021-12-12 23:57:06 - ERROR - SyntaxError in 0 on line 0
+2021-12-12 23:57:06 - ERROR - "GET /user/ HTTP/1.1" 500 1039022
+2021-12-12 23:57:43 - INFO - "GET /user/ HTTP/1.1" 200 984
+2021-12-12 23:59:28 - ERROR - ContainerError in 0 on line 0
+2021-12-12 23:59:30 - INFO - "GET /user/ HTTP/1.1" 200 114
+2021-12-12 23:59:30 - INFO - "GET /user/ HTTP/1.1" 200 114
+2021-12-12 23:59:30 - INFO - "GET /user/ HTTP/1.1" 200 114
+2021-12-13 00:00:52 - INFO - "GET /user/ HTTP/1.1" 200 16
+2021-12-13 00:01:06 - INFO - "GET /user/ HTTP/1.1" 200 16
+2021-12-13 00:01:16 - INFO - "GET /user/ HTTP/1.1" 200 15
+2021-12-13 00:01:16 - INFO - "GET /user/ HTTP/1.1" 200 15
+2021-12-13 00:01:26 - INFO - "GET /user/ HTTP/1.1" 200 188
+2021-12-13 00:11:24 - INFO - "GET /user?email=b@gmail.com HTTP/1.1" 200 198
+2021-12-13 00:11:24 - INFO - "GET /user?email=b@gmail.com HTTP/1.1" 200 2
+2021-12-13 00:11:24 - INFO - "GET /user?email=b@gmail.com HTTP/1.1" 200 2
+2021-12-13 00:11:24 - INFO - "GET /user?email=b@gmail.com HTTP/1.1" 200 2
+2021-12-13 00:15:21 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:15:21 - ERROR - "POST /user HTTP/1.1" 500 980185
+2021-12-13 00:18:12 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:18:12 - ERROR - "POST /user HTTP/1.1" 500 968694
+2021-12-13 00:19:26 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:19:26 - ERROR - "POST /user HTTP/1.1" 500 984479
+2021-12-13 00:27:14 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:27:14 - ERROR - "POST /user HTTP/1.1" 500 984605
+2021-12-13 00:27:24 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:27:24 - ERROR - "POST /user HTTP/1.1" 500 984747
+2021-12-13 00:27:28 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 41
+2021-12-13 00:27:28 - ERROR - "POST /user HTTP/1.1" 500 972965
+2021-12-13 00:27:49 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 41
+2021-12-13 00:27:49 - ERROR - "POST /user HTTP/1.1" 500 975566
+2021-12-13 00:28:59 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 41
+2021-12-13 00:28:59 - ERROR - "POST /user HTTP/1.1" 500 975560
+2021-12-13 00:29:00 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 41
+2021-12-13 00:29:00 - ERROR - "POST /user HTTP/1.1" 500 975560
+2021-12-13 00:29:11 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:30:13 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:30:16 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:31:51 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:32:11 - ERROR - "POST /user HTTP/1.1" 500 59
+2021-12-13 00:32:11 - ERROR - "POST /user HTTP/1.1" 500 59
+2021-12-13 00:32:25 - ERROR - ContainerError in 0 on line 0
+2021-12-13 00:37:43 - INFO - "POST /user HTTP/1.1" 200 14
+2021-12-13 00:39:24 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:39:24 - ERROR - "POST /user HTTP/1.1" 500 984747
+2021-12-13 00:39:43 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:39:43 - ERROR - "POST /user HTTP/1.1" 500 984747
+2021-12-13 00:40:22 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:40:22 - ERROR - "POST /user HTTP/1.1" 500 984749
+2021-12-13 00:40:59 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:41:00 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:41:00 - ERROR - "POST /user HTTP/1.1" 500 984752
+2021-12-13 00:41:35 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:41:35 - ERROR - "POST /user HTTP/1.1" 500 984770
+2021-12-13 00:41:57 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:41:57 - ERROR - "POST /user HTTP/1.1" 500 984769
+2021-12-13 00:42:14 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:42:14 - ERROR - "POST /user HTTP/1.1" 500 984751
+2021-12-13 00:42:45 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:42:45 - ERROR - "POST /user HTTP/1.1" 500 984621
+2021-12-13 00:43:22 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:43:22 - ERROR - "POST /user HTTP/1.1" 500 984538
+2021-12-13 00:44:51 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:44:51 - ERROR - "POST /user HTTP/1.1" 500 984538
+2021-12-13 00:45:03 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:45:03 - ERROR - "POST /user HTTP/1.1" 500 984751
+2021-12-13 00:45:39 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:45:39 - ERROR - "POST /user HTTP/1.1" 500 985140
+2021-12-13 00:49:46 - ERROR - NameError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 41
+2021-12-13 00:49:46 - ERROR - "POST /user HTTP/1.1" 500 987963
+2021-12-13 00:51:29 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:51:29 - ERROR - "POST /user HTTP/1.1" 500 985272
+2021-12-13 00:51:50 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:51:50 - ERROR - "POST /user HTTP/1.1" 500 985164
+2021-12-13 00:52:49 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:52:49 - ERROR - "POST /user HTTP/1.1" 500 985156
+2021-12-13 00:53:13 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:53:13 - ERROR - "POST /user HTTP/1.1" 500 985154
+2021-12-13 00:53:21 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:53:21 - ERROR - "POST /user HTTP/1.1" 500 985154
+2021-12-13 00:54:18 - INFO - "POST /user HTTP/1.1" 200 149
+2021-12-13 00:54:44 - ERROR - QueryException in 0 on line 0
+2021-12-13 00:54:44 - ERROR - "POST /user HTTP/1.1" 500 985152
+2021-12-13 01:05:34 - INFO - "POST /user HTTP/1.1" 200 97
+2021-12-13 01:05:34 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-13 01:05:34 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-13 01:05:34 - INFO - "GET /user HTTP/1.1" 200 2
+2021-12-13 01:08:20 - INFO - "GET /user HTTP/1.1" 200 216
+2021-12-13 01:17:44 - INFO - "GET /user HTTP/1.1" 200 216
+2021-12-13 01:18:24 - ERROR - ContainerError in 0 on line 0
+2021-12-13 01:18:24 - ERROR - "POST /user HTTP/1.1" 500 968988
+2021-12-13 01:21:29 - ERROR - ContainerError in 0 on line 0
+2021-12-13 01:21:29 - ERROR - "POST /user HTTP/1.1" 500 969022
+2021-12-13 01:26:08 - ERROR - ResponseError in 0 on line 0
+2021-12-13 01:27:13 - INFO - "GET /user/ HTTP/1.1" 200 216
+2021-12-13 01:28:28 - ERROR - ResponseError in 0 on line 0
+2021-12-13 01:28:40 - ERROR - ResponseError in 0 on line 0
+2021-12-13 01:28:42 - ERROR - ResponseError in 0 on line 0
+2021-12-13 01:29:21 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 216
+2021-12-13 01:29:49 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 214
+2021-12-13 01:29:49 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 214
+2021-12-13 01:30:07 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:31:32 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 1
+2021-12-13 01:33:43 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:33:43 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:33:43 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:34:30 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 7
+2021-12-13 01:34:39 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:35:17 - ERROR - ContainerError in 0 on line 0
+2021-12-13 01:35:38 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 1
+2021-12-13 01:36:15 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 214
+2021-12-13 01:36:49 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:37:15 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 17
+2021-12-13 01:37:38 - ERROR - ContainerError in 0 on line 0
+2021-12-13 01:37:40 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 19
+2021-12-13 01:37:52 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 19
+2021-12-13 01:37:52 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 19
+2021-12-13 01:39:04 - ERROR - ResponseError in 0 on line 0
+2021-12-13 01:40:56 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 214
+2021-12-13 01:42:28 - ERROR - ContainerError in 0 on line 0
+2021-12-13 01:42:38 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 34
+2021-12-13 01:42:47 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 01:45:08 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 01:45:08 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 01:53:02 - ERROR - UnicodeDecodeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 29
+2021-12-13 01:53:02 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 1072707
+2021-12-13 01:53:42 - ERROR - UnicodeDecodeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 29
+2021-12-13 01:53:42 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 1072824
+2021-12-13 01:53:50 - ERROR - UnicodeDecodeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 29
+2021-12-13 01:53:50 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 972386
+2021-12-13 01:53:58 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 01:54:33 - ERROR - UnicodeDecodeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 30
+2021-12-13 01:54:33 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 1073347
+2021-12-13 01:54:53 - ERROR - UnicodeDecodeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 31
+2021-12-13 01:54:53 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 1073310
+2021-12-13 01:57:52 - ERROR - AttributeError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 31
+2021-12-13 01:57:53 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 01:58:20 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 32
+2021-12-13 02:01:20 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 34
+2021-12-13 02:03:37 - ERROR - ContainerError in 0 on line 0
+2021-12-13 02:03:37 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 968797
+2021-12-13 02:04:44 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 34
+2021-12-13 02:09:25 - ERROR - AttributeError in 0 on line 0
+2021-12-13 02:09:25 - ERROR - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 500 989536
+2021-12-13 02:09:55 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 58
+2021-12-13 02:10:58 - ERROR - ResponseError in 0 on line 0
+2021-12-13 02:11:23 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 38
+2021-12-13 02:11:49 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 72
+2021-12-13 02:27:42 - ERROR - ContainerError in 0 on line 0
+2021-12-13 02:27:42 - ERROR - "POST /user/ HTTP/1.1" 500 968977
+2021-12-13 02:30:23 - ERROR - ContainerError in 0 on line 0
+2021-12-13 02:30:23 - ERROR - "POST /user/ HTTP/1.1" 500 969031
+2021-12-13 02:38:49 - ERROR - ContainerError in 0 on line 0
+2021-12-13 02:38:49 - ERROR - "POST /user/ HTTP/1.1" 500 968899
+2021-12-13 02:39:21 - ERROR - ContainerError in 0 on line 0
+2021-12-13 02:39:21 - ERROR - "POST /user/ HTTP/1.1" 500 969019
+2021-12-13 02:41:26 - INFO - "POST /user/ HTTP/1.1" 200 90
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/ HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:43:40 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:45:47 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 80
+2021-12-13 02:46:27 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 453
+2021-12-13 02:50:17 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 80
+2021-12-13 02:50:17 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 80
+2021-12-13 02:50:46 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 40
+2021-12-13 02:50:46 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 40
+2021-12-13 02:50:46 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 40
+2021-12-13 02:51:34 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:51:34 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:51:34 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:51:34 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:51:34 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 02:56:14 - INFO - "GET /user/d7cdbf46c9e7caa2 HTTP/1.1" 200 32
+2021-12-13 02:58:52 - INFO - "GET /user/admin HTTP/1.1" 200 453
+2021-12-13 02:58:52 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 38
+2021-12-13 02:58:52 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 38
+2021-12-13 02:58:52 - INFO - "GET /user/?email=b@gmail.com&password=b HTTP/1.1" 200 38
+2021-12-13 02:58:52 - INFO - "GET /user/admin HTTP/1.1" 200 40
+2021-12-13 02:58:52 - INFO - "GET /user/admin HTTP/1.1" 200 40
+2021-12-13 02:58:52 - INFO - "GET /user/admin HTTP/1.1" 200 40
+2021-12-13 03:00:56 - ERROR - ContainerError in 0 on line 0
+2021-12-13 03:00:56 - ERROR - "GET /user/admin HTTP/1.1" 500 969888
+2021-12-13 03:01:10 - INFO - "GET /user/admin HTTP/1.1" 200 453
+2021-12-13 03:02:27 - INFO - "GET /user/d853204634772335 HTTP/1.1" 200 32
+2021-12-13 04:02:43 - ERROR - "POST /user/ HTTP/1.1" 500 59
+2021-12-13 04:03:28 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:03:28 - ERROR - "POST /user/ HTTP/1.1" 500 968889
+2021-12-13 04:18:00 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:18:03 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:25:10 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:25:36 - ERROR - QueryException in 0 on line 0
+2021-12-13 04:25:36 - ERROR - "POST /user/ HTTP/1.1" 500 981968
+2021-12-13 04:26:03 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:26:46 - INFO - "POST /user/ HTTP/1.1" 200 151
+2021-12-13 04:26:46 - INFO - "GET /user?auth=b%27$2b$12$0cCXUfJAI1wD1YYTtHVhMu.VjC8QaEfClSHtg.UgsbkCQVKaT9kR2%27 HTTP/1.1" 200 31
+2021-12-13 04:33:01 - ERROR - ContainerError in 0 on line 0
+2021-12-13 04:56:06 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 04:56:06 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 04:56:06 - WARNING - "POST /user/admin HTTP/1.1" 404 1536
+2021-12-13 04:56:06 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 04:56:06 - INFO - "POST /user/ HTTP/1.1" 200 90
+2021-12-13 04:56:06 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 04:56:06 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 04:56:06 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 88
+2021-12-13 04:56:06 - INFO - "POST /user/?email=aa&password=aa HTTP/1.1" 200 90
+2021-12-13 04:56:06 - INFO - "GET /user?email=aa&password=aa HTTP/1.1" 200 88
+2021-12-13 04:56:06 - INFO - "GET /user?email=aa&password=aa HTTP/1.1" 200 88
+2021-12-13 05:01:43 - INFO - "GET /user?email=aa&password=aa HTTP/1.1" 200 38
+2021-12-13 05:01:43 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 70
+2021-12-13 05:01:43 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 70
+2021-12-13 05:01:43 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 70
+2021-12-13 05:01:43 - INFO - "GET /user/admin HTTP/1.1" 200 72
+2021-12-13 05:04:30 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:04:30 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 221
+2021-12-13 05:04:30 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 221
+2021-12-13 05:05:33 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 221
+2021-12-13 05:05:33 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 221
+2021-12-13 05:05:54 - ERROR - ValueError in 0 on line 0
+2021-12-13 05:05:54 - ERROR - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 500 1071873
+2021-12-13 05:06:53 - ERROR - ValueError in 0 on line 0
+2021-12-13 05:06:53 - ERROR - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 500 1071731
+2021-12-13 05:06:55 - ERROR - ValueError in 0 on line 0
+2021-12-13 05:06:55 - ERROR - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 500 1071861
+2021-12-13 05:07:32 - INFO - "GET /user/ce5981ba8175c5a9 HTTP/1.1" 200 32
+2021-12-13 05:08:14 - INFO - "POST /user/ HTTP/1.1" 200 90
+2021-12-13 05:08:14 - INFO - "GET /user/?email=bb&password=bb HTTP/1.1" 200 88
+2021-12-13 05:08:14 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 88
+2021-12-13 05:10:00 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 38
+2021-12-13 05:10:15 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 38
+2021-12-13 05:10:15 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 38
+2021-12-13 05:10:15 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 38
+2021-12-13 05:13:07 - INFO - "GET /user?email=bb&password=aa HTTP/1.1" 200 38
+2021-12-13 05:13:07 - INFO - "GET /user?email=bb&password=aa HTTP/1.1" 200 38
+2021-12-13 05:14:39 - INFO - "GET /user?email=bb&password=aa HTTP/1.1" 200 31
+2021-12-13 05:16:26 - INFO - "GET /user?email=bb&password=aa HTTP/1.1" 200 31
+2021-12-13 05:16:26 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 221
+2021-12-13 05:16:26 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 221
+2021-12-13 05:16:26 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 221
+2021-12-13 05:16:26 - INFO - "GET /user?email=bb&password=bb HTTP/1.1" 200 221
+2021-12-13 05:16:26 - INFO - "POST /user HTTP/1.1" 200 90
+2021-12-13 05:16:26 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 05:16:26 - INFO - "GET /user?email=cc&password=dd HTTP/1.1" 200 31
+2021-12-13 05:16:26 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 05:25:42 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:25:42 - ERROR - "POST /user HTTP/1.1" 500 978352
+2021-12-13 05:25:57 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:25:57 - ERROR - "POST /user HTTP/1.1" 500 980924
+2021-12-13 05:26:26 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:26:26 - ERROR - "POST /user HTTP/1.1" 500 978486
+2021-12-13 05:27:13 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:27:13 - ERROR - "POST /user HTTP/1.1" 500 982211
+2021-12-13 05:28:12 - INFO - "POST /user HTTP/1.1" 200 90
+2021-12-13 05:28:26 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:28:26 - ERROR - "POST /user HTTP/1.1" 500 980924
+2021-12-13 05:40:46 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:40:46 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:40:58 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:40:58 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:40:58 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user/admin HTTP/1.1" 200 223
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:41:14 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 221
+2021-12-13 05:43:53 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:43:53 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:43:53 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:44:38 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:18 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:45 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:45 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:45 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:45 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:45 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 238
+2021-12-13 05:45:58 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 240
+2021-12-13 05:45:58 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 240
+2021-12-13 05:45:58 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 240
+2021-12-13 05:46:20 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 16
+2021-12-13 05:46:20 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 16
+2021-12-13 05:46:20 - INFO - "GET /user?email=dd&password=dd HTTP/1.1" 200 16
+2021-12-13 05:46:20 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:48:16 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:48:16 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:48:16 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:48:16 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:48:16 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:48:16 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 05:49:40 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 05:49:40 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:49:40 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 32
+2021-12-13 05:51:11 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:51:11 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 238
+2021-12-13 05:52:32 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 18
+2021-12-13 05:52:32 - INFO - "GET /user/b03c0ffdf7426220 HTTP/1.1" 200 18
+2021-12-13 05:52:32 - INFO - "POST /user/ HTTP/1.1" 200 90
+2021-12-13 05:54:22 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 05:55:04 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 05:55:18 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 05:55:43 - ERROR - QueryException in 0 on line 0
+2021-12-13 05:55:43 - ERROR - "POST /user/ HTTP/1.1" 500 980928
+2021-12-13 05:56:04 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:56:04 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1039270
+2021-12-13 05:56:27 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:56:27 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1039270
+2021-12-13 05:56:31 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:56:31 - ERROR - "GET /user?email=cc&password=cc HTTP/1.1" 500 1039266
+2021-12-13 05:57:39 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:57:41 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 238
+2021-12-13 05:57:41 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 238
+2021-12-13 05:58:03 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 16
+2021-12-13 05:58:03 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 16
+2021-12-13 05:58:03 - INFO - "GET /user?email=cc&password=cc HTTP/1.1" 200 16
+2021-12-13 05:58:03 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 05:59:02 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:59:02 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1040405
+2021-12-13 05:59:29 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 05:59:29 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1040405
+2021-12-13 05:59:43 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 16
+2021-12-13 05:59:43 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 06:00:13 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 06:00:13 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1040250
+2021-12-13 06:00:17 - ERROR - KeyError in /Users/elikya/development/seir_penguin/projects/project4/backend/app/http/controllers/UserController.py on line 43
+2021-12-13 06:00:17 - ERROR - "GET /user/?email=cc&password=cc HTTP/1.1" 500 1040380
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 238
+2021-12-13 06:00:39 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=dd HTTP/1.1" 200 31
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=dd HTTP/1.1" 200 31
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=dd HTTP/1.1" 200 31
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 06:00:39 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 06:00:39 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:00:39 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:00:39 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:03:02 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 06:03:02 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:03:02 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 88
+2021-12-13 06:03:02 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:03:02 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:03:02 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:04:43 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 06:04:43 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:04:43 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 76
+2021-12-13 06:04:43 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 76
+2021-12-13 06:04:43 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 76
+2021-12-13 06:04:43 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 76
+2021-12-13 06:04:43 - INFO - "GET /user/b878f2b22434c698 HTTP/1.1" 200 18
+2021-12-13 06:04:43 - INFO - "GET /user/b878f2b22434c698 HTTP/1.1" 200 18
+2021-12-13 06:04:43 - INFO - "GET /user/b878f2b22434c698 HTTP/1.1" 200 18
+2021-12-13 06:04:43 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:07:27 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 06:07:40 - ERROR - QueryException in 0 on line 0
+2021-12-13 06:07:40 - ERROR - "POST /user/ HTTP/1.1" 500 980928
+2021-12-13 06:10:25 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:10:25 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:10:25 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:10:25 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:10:25 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:10:25 - INFO - "GET /user/?email=dd&password=dd HTTP/1.1" 200 76
+2021-12-13 06:10:25 - INFO - "GET /user/?email=cc&password=cc HTTP/1.1" 200 76
+2021-12-13 06:10:25 - INFO - "GET /user/4980d8013fc4c6f7 HTTP/1.1" 200 18
+2021-12-13 06:10:25 - INFO - "GET /user/0adafb6f33f31cbd HTTP/1.1" 200 18
+2021-12-13 06:15:35 - ERROR - ContainerError in 0 on line 0
+2021-12-13 06:15:35 - ERROR - "GET /user/0adafb6f33f31cb HTTP/1.1" 500 970347
+2021-12-13 06:15:54 - ERROR - ContainerError in 0 on line 0
+2021-12-13 06:15:54 - ERROR - "GET /user/0adafb6f33f31cb HTTP/1.1" 500 970477
+2021-12-13 06:16:25 - INFO - "GET /user/0adafb6f33f31cb HTTP/1.1" 200 16
+2021-12-13 06:17:39 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:17:39 - INFO - "GET /user/?email=aa&password=aa HTTP/1.1" 200 76
+2021-12-13 06:17:39 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:17:39 - INFO - "GET /user/admin HTTP/1.1" 200 90
+2021-12-13 06:17:39 - INFO - "GET /user/9807fb389b240109 HTTP/1.1" 200 18
+2021-12-13 06:19:38 - ERROR - ContainerError in 0 on line 0
+2021-12-13 06:19:38 - ERROR - "GET /user/admin HTTP/1.1" 500 969886
+2021-12-13 06:19:47 - ERROR - ContainerError in 0 on line 0
+2021-12-13 06:19:47 - ERROR - "GET /user/admin HTTP/1.1" 500 969886
+2021-12-13 06:19:50 - ERROR - ContainerError in 0 on line 0
+2021-12-13 06:19:50 - ERROR - "GET /user/admin HTTP/1.1" 500 969886
+2021-12-13 06:20:13 - INFO - "GET /user/admin HTTP/1.1" 200 720
+2021-12-13 06:20:13 - INFO - "GET /user/admin HTTP/1.1" 200 720
+2021-12-13 06:20:13 - INFO - "GET /user/admin HTTP/1.1" 200 720
+2021-12-13 06:20:13 - INFO - "POST /user/ HTTP/1.1" 200 88
+2021-12-13 06:20:13 - INFO - "GET /user/?email=bb&password=bb HTTP/1.1" 200 76
+2021-12-13 06:20:13 - INFO - "GET /user/84279e816c376ec7 HTTP/1.1" 200 18
+2021-12-13 06:20:13 - INFO - "GET /user/admin HTTP/1.1" 200 960
+2021-12-13 06:22:52 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 06:22:52 - INFO - "POST /user/ HTTP/1.1" 200 207
+2021-12-13 06:24:12 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 06:24:12 - INFO - "GET /user/?email=bb&password=bb HTTP/1.1" 200 76
+2021-12-13 06:25:10 - INFO - "POST /user/ HTTP/1.1" 200 2
+2021-12-13 06:25:10 - INFO - "GET /user/?email=bb&password=bb HTTP/1.1" 200 16
+2021-12-13 06:25:10 - INFO - "GET /user/admin HTTP/1.1" 200 240
+2021-12-13 06:25:10 - INFO - "GET /user/49c2a4951caaa775 HTTP/1.1" 200 18
+2021-12-13 06:25:10 - INFO - "GET /user/49c2a4951caaa77 HTTP/1.1" 200 16
+2021-12-13 06:25:10 - INFO - "GET /user/49c2a4951caaa775 HTTP/1.1" 200 18
+2021-12-13 06:25:10 - INFO - "GET /user/?email=bb&password=aa HTTP/1.1" 200 31
+2021-12-13 06:32:42 - INFO - "POST /user/?email=bb&password=aa HTTP/1.1" 200 2
+2021-12-13 06:32:42 - INFO - "GET /user/?email=bb&password=aa HTTP/1.1" 200 31
+2021-12-13 06:32:42 - INFO - "GET /user/?email=bb&password=bb HTTP/1.1" 200 16
+2021-12-13 06:32:42 - INFO - "GET /user/5d5e9ab555430c60 HTTP/1.1" 200 18
+2021-12-13 06:34:55 - ERROR - AttributeError in 0 on line 0
+2021-12-13 06:34:55 - ERROR - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 500 1052220
+2021-12-13 06:37:45 - ERROR - QueryException in 0 on line 0
+2021-12-13 06:37:45 - ERROR - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 500 980051
+2021-12-13 06:39:07 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 238
+2021-12-13 06:39:07 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 238
+2021-12-13 06:39:07 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 238
+2021-12-13 06:39:07 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 238
+2021-12-13 06:42:35 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 246
+2021-12-13 06:42:35 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 246
+2021-12-13 06:42:35 - INFO - "DELETE /user/5d5e9ab555430c60 HTTP/1.1" 200 19
+2021-12-13 06:42:35 - INFO - "GET /user/admin HTTP/1.1" 200 2

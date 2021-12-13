@@ -38,10 +38,11 @@ class UserController(Controller):
     def login(self):
         email = self.request.input("email")
         password = self.request.input("password")
+        print(email, password)
         
         # Check auth
         if QueryBuilder().table('users').where("email", email).where("password", password).select_raw("*").first() == None:
-            return ["Username/password not valid"]
+            return ["Username/password not valid2"]
 
         # update access token and return it to login
         token = binascii.hexlify(os.urandom(8)).decode()

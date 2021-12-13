@@ -7,7 +7,9 @@ class CsrfMiddleware(Middleware):
     """Verify CSRF Token Middleware."""
 
     """Which routes should be exempt from CSRF protection."""
-    exempt = ["*"]
+    exempt = [
+        "*"
+    ]
 
     """Whether or not the CSRF token should be changed on every request."""
     every_request = False

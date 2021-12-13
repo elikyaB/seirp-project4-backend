@@ -33,6 +33,12 @@ class UserController(Controller):
         # auth = self.request.input("auth")
         # password = builder.where("password", "=", auth).first()
 
+        
+
+    def login(self):
+        email = self.request.input("email")
+        password = self.request.input("password")
+        
         # Check auth
         if QueryBuilder().table('users').where("email", email).where("password", password).select_raw("*").first() == None:
             return ["Username/password not valid"]
@@ -41,6 +47,7 @@ class UserController(Controller):
         token = binascii.hexlify(os.urandom(8)).decode()
         QueryBuilder().table('users').where("email", email).update({"remember_token": token, "verified_at": dt.now().strftime('%Y-%m-%d %H:%M:%S')})
         return QueryBuilder().table('users').where("email", email).first()["remember_token"]
+
 
     def create(self):
         name = self.request.input("name")

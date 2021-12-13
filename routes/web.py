@@ -8,6 +8,7 @@ ROUTES = [
     RouteGroup([
         Get("/", "UserController@index").name("index"),
         Get("/@token", "UserController@show").name("show"),
+        Post("/login", "UserController@login").name("login"),
         Post("/", "UserController@create").name("create"),
         Put("/@token", "UserController@update").name("update"),
         Delete('/@token', "UserController@destroy").name("destroy")

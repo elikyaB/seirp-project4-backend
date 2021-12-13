@@ -623,3 +623,42 @@
 2021-12-13 06:42:35 - INFO - "PUT /user/5d5e9ab555430c60 HTTP/1.1" 200 246
 2021-12-13 06:42:35 - INFO - "DELETE /user/5d5e9ab555430c60 HTTP/1.1" 200 19
 2021-12-13 06:42:35 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 06:45:43 - INFO - "GET /food HTTP/1.1" 200 2
+2021-12-13 06:45:43 - INFO - "GET /food HTTP/1.1" 200 2
+2021-12-13 06:45:43 - INFO - "GET /food HTTP/1.1" 200 2
+2021-12-13 07:06:39 - INFO - "GET /food HTTP/1.1" 200 4878910
+2021-12-13 07:06:39 - INFO - "GET /user/admin HTTP/1.1" 200 2
+2021-12-13 07:06:39 - INFO - "GET /user/ HTTP/1.1" 200 31
+2021-12-13 07:06:39 - INFO - "GET /food HTTP/1.1" 200 4878910
+2021-12-13 07:06:39 - WARNING - "GET / HTTP/1.1" 404 1536
+2021-12-13 07:07:28 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-13 07:07:28 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-13 07:07:28 - INFO - "GET /food HTTP/1.1" 200 4878910
+2021-12-13 07:07:28 - ERROR - "OPTIONS /user?email=&password= HTTP/1.1" 500 59
+2021-12-13 09:42:21 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-13 09:42:21 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-13 09:42:21 - INFO - "GET /user HTTP/1.1" 200 31
+2021-12-13 09:42:21 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 31
+2021-12-13 09:42:21 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 31
+2021-12-13 09:42:21 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 31
+2021-12-13 09:42:21 - INFO - code 400, message Bad request version ('ªðâµ+\x8cýRÛ®ZDW=\x87\x03ÖzÕÞßG')
+2021-12-13 09:42:21 - ERROR - You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2021-12-13 09:42:21 - INFO - code 400, message Bad request version ('À\x13À')
+2021-12-13 09:42:21 - ERROR - You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2021-12-13 09:42:21 - INFO - "POST /user HTTP/1.1" 200 1
+2021-12-13 09:42:21 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:42:21 - ERROR - "OPTIONS /user?email=a&password=a HTTP/1.1" 500 59
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - INFO - "GET /user?email=a&password=a HTTP/1.1" 200 16
+2021-12-13 09:59:59 - ERROR - "OPTIONS /user?email=a&password=a HTTP/1.1" 500 59
+2021-12-13 14:20:03 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-13 14:20:03 - INFO - "GET /user/admin HTTP/1.1" 200 237

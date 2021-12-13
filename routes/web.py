@@ -3,7 +3,7 @@
 from masonite.routes import Get, Post, Put, Delete, RouteGroup
 
 ROUTES = [
-    # Get("/", "WelcomeController@show").name("welcome"),
+    Get("/", "WelcomeController@show").name("welcome"),
 
     RouteGroup([
         Get("/", "UserController@index").name("index"),
